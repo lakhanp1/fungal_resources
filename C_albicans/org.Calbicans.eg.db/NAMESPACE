@@ -1,0 +1,16 @@
+import(methods)
+import(AnnotationDbi)
+
+### Only put what is statically exported here. All the AnnObj instances
+### created at load time are dynamically exported (refer to R/zzz.R for
+### the details).
+export(
+    org.Calbicans.eg,
+    org.Calbicans.eg_dbconn,
+    org.Calbicans.eg_dbfile,
+    org.Calbicans.eg_dbschema,
+    org.Calbicans.eg_dbInfo,
+
+    org.Calbicans.egORGANISM
+)
+
