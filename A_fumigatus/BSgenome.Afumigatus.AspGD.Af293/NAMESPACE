@@ -1,0 +1,9 @@
+import(BSgenome)
+
+### Don't export BSgenome.Afumigatus.AspGD.Af293 or Afumigatus (the new and old names of the
+### BSgenome object defined in this package): the object is created and its 2
+### names are dynamically exported at load time (refer to R/zzz.R for the
+### details).
+#export(BSgenome.Afumigatus.AspGD.Af293)
+#export(Afumigatus)
+
