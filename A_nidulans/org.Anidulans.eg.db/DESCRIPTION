@@ -1,0 +1,14 @@
+Package: org.Anidulans.eg.db
+Title: Genome wide annotation for Aspergillus nidulans
+Description: Genome wide annotation for Aspergillus nidulans, primarily based on mapping using Entrez Gene identifiers.
+Version: 10.04.08
+Author: Lakhansing Pardeshi Chris Lab
+Maintainer: Lakhansing Pardeshi <lakhanp@umac.mo>
+Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.42.1)
+Suggests: DBI, annotate, RUnit
+Imports: methods, AnnotationDbi
+License: Artistic-2.0
+organism: Aspergillus nidulans
+species: Aspergillus nidulans
+biocViews: OrgDb, annotation
+
