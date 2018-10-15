@@ -45,7 +45,7 @@ geneInfo <- AnnotationDbi::select(x = org.Anidulans.eg.db,
 
 <br />
 
-#### Application of org.db package
+#### Applications of org.db package
 
 org.db package has several application while performing genomic data analysis in R. For example:
 
