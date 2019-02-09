@@ -1,0 +1,8 @@
+import(AnnotationDbi)
+import(GenomicFeatures)
+
+### Don't export TxDb.Afumigatus.Af293.AspGD.GFF (the object defined in this
+### package): it is created and dynamically exported at load time (refer
+### to R/zzz.R for the details).
+
+
