@@ -11,6 +11,6 @@ organism: Aspergillus nidulans
 species: Aspergillus nidulans
 provider: A_nidulans AspGD GFF
 provider_version: A_nidulans AspGD GFF
-release_date: 2019-04-09 17:45:12 +0800 (Tue, 09 Apr 2019)
+release_date: 2019-04-11 03:16:24 +0800 (Thu, 11 Apr 2019)
 resource_url: http://www.aspgd.org/
 biocViews: AnnotationData, Genetics, TxDb, Aspergillus_nidulans
