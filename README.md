@@ -36,5 +36,5 @@ This repository has various annotation resources for different fungal genomes I 
 
 
 <br><br><br>
-*License: MIT*
+*License: GPL v2*
 
