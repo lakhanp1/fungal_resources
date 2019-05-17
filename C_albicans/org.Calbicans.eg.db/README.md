@@ -1,4 +1,4 @@
-# org.Anidulans.eg.db
+# org.Calbicans.eg.db
 This is an org.db annotation resource package for fungal species *C. albicans*. This annotation package include the gene based information from [CGD](http://www.candidagenome.org/) database.
 
 ## Install
