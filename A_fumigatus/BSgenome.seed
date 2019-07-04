@@ -1,0 +1,15 @@
+Package: BSgenome.Afumigatus.AspGD.Af293
+Title: Full genome sequences for A_fumigatus_Af293_version_s03-m05-r06 from AspGD
+Description: Full genome sequences for A_fumigatus_Af293_version_s03-m05-r06 from AspGD and stored in Biostrings objects.
+Version: 03.05.06
+organism: Aspergillus fumigatus
+common_name: Aspergillus fumigatus
+provider: AspGD
+provider_version: s03-m05-r06
+source_url: http://www.aspergillusgenome.org/download/sequence/A_fumigatus_Af293/
+BSgenomeObjname: Afumigatus
+SrcDataFiles: A_fumigatus_Af293_version_s03-m05-r06_chromosomes.fasta from http://www.aspergillusgenome.org/download/sequence/A_fumigatus_Af293/
+seqfile_name: A_fumigatus_Af293_version_s03-m05-r06_chromosomes.2bit
+release_date: 17-Apr-2016
+release_name: AspGD
+organism_biocview: aspergillus_fumigatus
