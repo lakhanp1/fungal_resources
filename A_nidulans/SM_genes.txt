@@ -1,0 +1,1151 @@
+geneId	SM_CLUSTER	SM_ID
+AN1026	Asperfuranone (afo)	cluster_01
+AN1027	Asperfuranone (afo)	cluster_01
+AN1028	Asperfuranone (afo)	cluster_01
+AN1029	Asperfuranone (afo)	cluster_01
+AN1030	Asperfuranone (afo)	cluster_01
+AN1031	Asperfuranone (afo)	cluster_01
+AN1032	Asperfuranone (afo)	cluster_01
+AN1033	Asperfuranone (afo)	cluster_01
+AN1034	Asperfuranone (afo)	cluster_01
+AN1035	Asperfuranone (afo)	cluster_01
+AN11287	Asperfuranone (afo)	cluster_01
+AN1036	Asperfuranone (afo)	cluster_01
+AN1037	Asperfuranone (afo)	cluster_01
+AN11288	Asperfuranone (afo)	cluster_01
+AN1038	Asperfuranone (afo)	cluster_01
+AN1039	Asperfuranone (afo)	cluster_01
+AN1040	Asperfuranone (afo)	cluster_01
+AN5990	Asperthecin	cluster_02
+AN5991	Asperthecin	cluster_02
+AN5992	Asperthecin	cluster_02
+AN5993	Asperthecin	cluster_02
+AN5994	Asperthecin	cluster_02
+AN5995	Asperthecin	cluster_02
+AN5996	Asperthecin	cluster_02
+AN5997	Asperthecin	cluster_02
+AN5998	Asperthecin	cluster_02
+AN5999	Asperthecin	cluster_02
+AN6000	Asperthecin	cluster_02
+AN6001	Asperthecin	cluster_02
+AN6002	Asperthecin	cluster_02
+AN6003	Asperthecin	cluster_02
+AN12262	Asperthecin	cluster_02
+AN6004	Asperthecin	cluster_02
+AN6005	Asperthecin	cluster_02
+AN6006	Asperthecin	cluster_02
+AN6007	Asperthecin	cluster_02
+AN6009	Asperthecin	cluster_02
+AN8398	Aspyridone (asp)	cluster_03
+AN8399	Aspyridone (asp)	cluster_03
+AN8400	Aspyridone (asp)	cluster_03
+AN8401	Aspyridone (asp)	cluster_03
+AN8402	Aspyridone (asp)	cluster_03
+AN8403	Aspyridone (asp)	cluster_03
+AN8404	Aspyridone (asp)	cluster_03
+AN8405	Aspyridone (asp)	cluster_03
+AN8406	Aspyridone (asp)	cluster_03
+AN8407	Aspyridone (asp)	cluster_03
+AN8408	Aspyridone (asp)	cluster_03
+AN8409	Aspyridone (asp)	cluster_03
+AN8410	Aspyridone (asp)	cluster_03
+AN8411	Aspyridone (asp)	cluster_03
+AN8412	Aspyridone (asp)	cluster_03
+AN8413	Aspyridone (asp)	cluster_03
+AN8414	Aspyridone (asp)	cluster_03
+AN11872	Aspyridone (asp)	cluster_03
+AN8415	Aspyridone (asp)	cluster_03
+AN8417	Aspyridone (asp)	cluster_03
+AN8418	Aspyridone (asp)	cluster_03
+AN11609	Aspyridone (asp)	cluster_03
+AN11817	Austinol (aus) AN9244	cluster_04
+AN9241	Austinol (aus) AN9244	cluster_04
+AN9242	Austinol (aus) AN9244	cluster_04
+AN9243	Austinol (aus) AN9244	cluster_04
+AN9244	Austinol (aus) AN9244	cluster_04
+AN9245	Austinol (aus) AN9244	cluster_04
+AN9246	Austinol (aus) AN9244	cluster_04
+AN9247	Austinol (aus) AN9244	cluster_04
+AN9248	Austinol (aus) AN9244	cluster_04
+AN9249	Austinol (aus) AN9244	cluster_04
+AN9250	Austinol (aus) AN9244	cluster_04
+AN9251	Austinol (aus) AN9244	cluster_04
+AN9252	Austinol (aus) AN9244	cluster_04
+AN9253	Austinol (aus) AN9244	cluster_04
+AN9254	Austinol (aus) AN9244	cluster_04
+AN8377	Austinol (aus)	cluster_05
+AN8378	Austinol (aus)	cluster_05
+AN12376	Austinol (aus)	cluster_05
+AN8379	Austinol (aus)	cluster_05
+AN8381	Austinol (aus)	cluster_05
+AN11871	Austinol (aus)	cluster_05
+AN8382	Austinol (aus)	cluster_05
+AN8383	Austinol (aus)	cluster_05
+AN8384	Austinol (aus)	cluster_05
+AN8385	Austinol (aus)	cluster_05
+AN11077	Austinol (aus)	cluster_05
+AN11085	Austinol (aus)	cluster_05
+AN8387	Austinol (aus)	cluster_05
+AN8388	Austinol (aus)	cluster_05
+AN8389	Austinol (aus)	cluster_05
+AN8390	Austinol (aus)	cluster_05
+AN8391	Austinol (aus)	cluster_05
+AN8392	Austinol (aus)	cluster_05
+AN8393	Austinol (aus)	cluster_05
+AN8394	Austinol (aus)	cluster_05
+AN8395	Austinol (aus)	cluster_05
+AN7895	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7896	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7897	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN11584	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7898	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7899	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7900	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7901	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7902	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7903	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7904	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7905	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7906	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7907	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7908	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7909	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7911	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7912	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7913	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7914	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7915	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7916	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7917	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7918	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7919	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7920	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7921	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7922	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN7923	Combined Derivative of BenzAldehyde1 (dba) and F9775s	cluster_06
+AN2538	Emericellamide (eas)	cluster_07
+AN12472	Emericellamide (eas)	cluster_07
+AN2540	Emericellamide (eas)	cluster_07
+AN2541	Emericellamide (eas)	cluster_07
+AN2542	Emericellamide (eas)	cluster_07
+AN2543	Emericellamide (eas)	cluster_07
+AN2544	Emericellamide (eas)	cluster_07
+AN2545	Emericellamide (eas)	cluster_07
+AN2546	Emericellamide (eas)	cluster_07
+AN2547	Emericellamide (eas)	cluster_07
+AN2548	Emericellamide (eas)	cluster_07
+AN2549	Emericellamide (eas)	cluster_07
+AN2550	Emericellamide (eas)	cluster_07
+AN10325	Emericellamide (eas)	cluster_07
+AN10319	Emericellamide (eas)	cluster_07
+AN10320	Emericellamide (eas)	cluster_07
+AN10326	Emericellamide (eas)	cluster_07
+AN2553	Emericellamide (eas)	cluster_07
+AN3484	inp	cluster_08
+AN3485	inp	cluster_08
+AN12191	inp	cluster_08
+AN3486	inp	cluster_08
+AN3487	inp	cluster_08
+AN3488	inp	cluster_08
+AN3489	inp	cluster_08
+AN3490	inp	cluster_08
+AN3491	inp	cluster_08
+AN3492	inp	cluster_08
+AN3493	inp	cluster_08
+AN3494	inp	cluster_08
+AN3495	inp	cluster_08
+AN3496	inp	cluster_08
+AN3497	inp	cluster_08
+AN3498	inp	cluster_08
+AN3499	inp	cluster_08
+AN3500	inp	cluster_08
+AN3501	inp	cluster_08
+AN3502	inp	cluster_08
+AN3503	inp	cluster_08
+AN3504	inp	cluster_08
+AN3505	inp	cluster_08
+AN3506	inp	cluster_08
+AN4637	ivo	cluster_09
+AN12164	ivo	cluster_09
+AN4638	ivo	cluster_09
+AN4639	ivo	cluster_09
+AN4640	ivo	cluster_09
+AN10576	ivo	cluster_09
+AN10573	ivo	cluster_09
+AN4642	ivo	cluster_09
+AN4643	ivo	cluster_09
+AN4644	ivo	cluster_09
+AN4645	ivo	cluster_09
+AN4646	ivo	cluster_09
+AN4647	ivo	cluster_09
+AN4648	ivo	cluster_09
+AN4649	ivo	cluster_09
+AN3391	Microperfuranone	cluster_10
+AN3392	Microperfuranone	cluster_10
+AN3393	Microperfuranone	cluster_10
+AN11836	Microperfuranone	cluster_10
+AN3394	Microperfuranone	cluster_10
+AN3395	Microperfuranone	cluster_10
+AN3396	Microperfuranone	cluster_10
+AN3397	Microperfuranone	cluster_10
+AN3398	Microperfuranone	cluster_10
+AN3399	Microperfuranone	cluster_10
+AN3400	Microperfuranone	cluster_10
+AN3402	Microperfuranone	cluster_10
+AN3403	Microperfuranone	cluster_10
+AN3404	Microperfuranone	cluster_10
+AN3405	Microperfuranone	cluster_10
+AN3406	Microperfuranone	cluster_10
+AN3407	Microperfuranone	cluster_10
+AN3408	Microperfuranone	cluster_10
+AN11846	Monodictyphenone (mdp)	cluster_11
+AN9540	Monodictyphenone (mdp)	cluster_11
+AN10039	Monodictyphenone (mdp)	cluster_11
+AN10021	Monodictyphenone (mdp)	cluster_11
+AN10049	Monodictyphenone (mdp)	cluster_11
+AN0146	Monodictyphenone (mdp)	cluster_11
+AN0147	Monodictyphenone (mdp)	cluster_11
+AN0148	Monodictyphenone (mdp)	cluster_11
+AN0149	Monodictyphenone (mdp)	cluster_11
+AN0150	Monodictyphenone (mdp)	cluster_11
+AN10022	Monodictyphenone (mdp)	cluster_11
+AN10035	Monodictyphenone (mdp)	cluster_11
+AN10038	Monodictyphenone (mdp)	cluster_11
+AN10044	Monodictyphenone (mdp)	cluster_11
+AN10023	Monodictyphenone (mdp)	cluster_11
+AN0153	Monodictyphenone (mdp)	cluster_11
+AN0154	Monodictyphenone (mdp)	cluster_11
+AN10037	Monodictyphenone (mdp)	cluster_11
+AN10036	Monodictyphenone (mdp)	cluster_11
+AN10024	Monodictyphenone (mdp)	cluster_11
+AN0156	Monodictyphenone (mdp)	cluster_11
+AN0157	Monodictyphenone (mdp)	cluster_11
+AN0158	Monodictyphenone (mdp)	cluster_11
+AN2616	Penicillin	cluster_12
+AN2617	Penicillin	cluster_12
+AN2618	Penicillin	cluster_12
+AN12325	Penicillin	cluster_12
+AN2619	Penicillin	cluster_12
+AN12326	Penicillin	cluster_12
+AN12327	Penicillin	cluster_12
+AN2621	Penicillin	cluster_12
+AN2622	Penicillin	cluster_12
+AN2623	Penicillin	cluster_12
+AN2624	Penicillin	cluster_12
+AN12328	Penicillin	cluster_12
+AN2625	Penicillin	cluster_12
+AN2626	Penicillin	cluster_12
+AN10329	Penicillin	cluster_12
+AN6436	pkb	cluster_13
+AN6437	pkb	cluster_13
+AN6438	pkb	cluster_13
+AN6439	pkb	cluster_13
+AN6440	pkb	cluster_13
+AN6441	pkb	cluster_13
+AN11920	pkb	cluster_13
+AN11921	pkb	cluster_13
+AN6443	pkb	cluster_13
+AN6444	pkb	cluster_13
+AN6445	pkb	cluster_13
+AN6446	pkb	cluster_13
+AN6447	pkb	cluster_13
+AN11922	pkb	cluster_13
+AN6448	pkb	cluster_13
+AN6449	pkb	cluster_13
+AN6450	pkb	cluster_13
+AN6451	pkb	cluster_13
+AN10104	pkdA	cluster_14
+AN0517	pkdA	cluster_14
+AN0518	pkdA	cluster_14
+AN0519	pkdA	cluster_14
+AN11742	pkdA	cluster_14
+AN0520	pkdA	cluster_14
+AN0521	pkdA	cluster_14
+AN0522	pkdA	cluster_14
+AN0523	pkdA	cluster_14
+AN0524	pkdA	cluster_14
+AN0525	pkdA	cluster_14
+AN0526	pkdA	cluster_14
+AN0527	pkdA	cluster_14
+AN0528	pkdA	cluster_14
+AN0529	pkdA	cluster_14
+AN0530	pkdA	cluster_14
+AN0531	pkdA	cluster_14
+AN0532	pkdA	cluster_14
+AN0533	pkdA	cluster_14
+AN0534	pkdA	cluster_14
+AN3217	pkf	cluster_15
+AN3218	pkf	cluster_15
+AN3219	pkf	cluster_15
+AN3220	pkf	cluster_15
+AN3221	pkf	cluster_15
+AN3222	pkf	cluster_15
+AN3223	pkf	cluster_15
+AN3224	pkf	cluster_15
+AN3225	pkf	cluster_15
+AN3226	pkf	cluster_15
+AN3227	pkf	cluster_15
+AN3228	pkf	cluster_15
+AN3229	pkf	cluster_15
+AN3230	pkf	cluster_15
+AN12183	pkf	cluster_15
+AN3231	pkf	cluster_15
+AN3232	pkf	cluster_15
+AN3233	pkf	cluster_15
+AN3234	pkf	cluster_15
+AN3235	pkf	cluster_15
+AN3236	pkf	cluster_15
+AN3237	pkf	cluster_15
+AN12184	pkf	cluster_15
+AN3238	pkf	cluster_15
+AN7059	pkg	cluster_16
+AN7060	pkg	cluster_16
+AN7061	pkg	cluster_16
+AN7062	pkg	cluster_16
+AN7063	pkg	cluster_16
+AN7064	pkg	cluster_16
+AN10883	pkg	cluster_16
+AN10888	pkg	cluster_16
+AN7066	pkg	cluster_16
+AN7067	pkg	cluster_16
+AN7068	pkg	cluster_16
+AN10889	pkg	cluster_16
+AN10884	pkg	cluster_16
+AN7070	pkg	cluster_16
+AN7071	pkg	cluster_16
+AN7072	pkg	cluster_16
+AN7073	pkg	cluster_16
+AN7074	pkg	cluster_16
+AN7075	pkg	cluster_16
+AN7076	pkg	cluster_16
+AN7077	pkg	cluster_16
+AN7078	pkg	cluster_16
+AN2029	pkh	cluster_17
+AN2030	pkh	cluster_17
+AN2031	pkh	cluster_17
+AN2032	pkh	cluster_17
+AN2033	pkh	cluster_17
+AN2034	pkh	cluster_17
+AN2035	pkh	cluster_17
+AN2036	pkh	cluster_17
+AN10256	pkh	cluster_17
+AN2037	pkh	cluster_17
+AN2038	pkh	cluster_17
+AN2039	pkh	cluster_17
+AN2040	pkh	cluster_17
+AN2041	pkh	cluster_17
+AN2042	pkh	cluster_17
+AN2043	pkh	cluster_17
+AN3379	pki	cluster_18
+AN3380	pki	cluster_18
+AN3381	pki	cluster_18
+AN3382	pki	cluster_18
+AN3383	pki	cluster_18
+AN3384	pki	cluster_18
+AN3385	pki	cluster_18
+AN3386	pki	cluster_18
+AN3387	pki	cluster_18
+AN3388	pki	cluster_18
+AN3389	pki	cluster_18
+AN3390	pki	cluster_18
+AN3391	pki	cluster_18
+AN3392	pki	cluster_18
+AN11012	Sterigmatocystin (stc)	cluster_19
+AN7804	Sterigmatocystin (stc)	cluster_19
+AN7805	Sterigmatocystin (stc)	cluster_19
+AN7806	Sterigmatocystin (stc)	cluster_19
+AN7807	Sterigmatocystin (stc)	cluster_19
+AN7808	Sterigmatocystin (stc)	cluster_19
+AN7809	Sterigmatocystin (stc)	cluster_19
+AN7810	Sterigmatocystin (stc)	cluster_19
+AN7811	Sterigmatocystin (stc)	cluster_19
+AN7812	Sterigmatocystin (stc)	cluster_19
+AN11017	Sterigmatocystin (stc)	cluster_19
+AN11013	Sterigmatocystin (stc)	cluster_19
+AN7814	Sterigmatocystin (stc)	cluster_19
+AN7815	Sterigmatocystin (stc)	cluster_19
+AN7816	Sterigmatocystin (stc)	cluster_19
+AN11021	Sterigmatocystin (stc)	cluster_19
+AN7817	Sterigmatocystin (stc)	cluster_19
+AN7818	Sterigmatocystin (stc)	cluster_19
+AN7819	Sterigmatocystin (stc)	cluster_19
+AN7820	Sterigmatocystin (stc)	cluster_19
+AN7821	Sterigmatocystin (stc)	cluster_19
+AN7822	Sterigmatocystin (stc)	cluster_19
+AN7823	Sterigmatocystin (stc)	cluster_19
+AN7825	Sterigmatocystin (stc)	cluster_19
+AN7824	Sterigmatocystin (stc)	cluster_19
+AN7826	Sterigmatocystin (stc)	cluster_19
+AN7827	Sterigmatocystin (stc)	cluster_19
+AN7828	Sterigmatocystin (stc)	cluster_19
+AN7830	Sterigmatocystin (stc)	cluster_19
+AN7831	Sterigmatocystin (stc)	cluster_19
+AN7832	Sterigmatocystin (stc)	cluster_19
+AN8506	Terriquinone (tdi)	cluster_20
+AN8507	Terriquinone (tdi)	cluster_20
+AN8508	Terriquinone (tdi)	cluster_20
+AN8509	Terriquinone (tdi)	cluster_20
+AN8510	Terriquinone (tdi)	cluster_20
+AN8511	Terriquinone (tdi)	cluster_20
+AN8512	Terriquinone (tdi)	cluster_20
+AN8513	Terriquinone (tdi)	cluster_20
+AN8514	Terriquinone (tdi)	cluster_20
+AN8516	Terriquinone (tdi)	cluster_20
+AN8518	Terriquinone (tdi)	cluster_20
+AN8520	Terriquinone (tdi)	cluster_20
+AN8521	Terriquinone (tdi)	cluster_20
+AN8522	Terriquinone (tdi)	cluster_20
+AN6791	xptA-containing	cluster_21
+AN6790	xptA-containing	cluster_21
+AN6789	xptA-containing	cluster_21
+AN6788	xptA-containing	cluster_21
+AN6787	xptA-containing	cluster_21
+AN6786	xptA-containing	cluster_21
+AN11527	xptA-containing	cluster_21
+AN6785	xptA-containing	cluster_21
+AN6784	xptA-containing	cluster_21
+AN6783	xptA-containing	cluster_21
+AN6782	xptA-containing	cluster_21
+AN6781	xptA-containing	cluster_21
+AN6780	xptA-containing	cluster_21
+AN6779	xptA-containing	cluster_21
+AN6778	xptA-containing	cluster_21
+AN6777	xptA-containing	cluster_21
+AN6776	xptA-containing	cluster_21
+AN6775	xptA-containing	cluster_21
+AN6774	xptA-containing	cluster_21
+AN6773	xptA-containing	cluster_21
+AN6772	xptA-containing	cluster_21
+AN6771	xptA-containing	cluster_21
+AN6770	xptA-containing	cluster_21
+AN7996	xptB-containing	cluster_22
+AN7997	xptB-containing	cluster_22
+AN7998	xptB-containing	cluster_22
+AN7999	xptB-containing	cluster_22
+AN12402	xptB-containing	cluster_22
+AN9467	xptB-containing	cluster_22
+AN12431	xptB-containing	cluster_22
+AN10009	AN0016	cluster_23
+AN0014	AN0016	cluster_23
+AN0015	AN0016	cluster_23
+AN0016	AN0016	cluster_23
+AN0017	AN0016	cluster_23
+AN0019	AN0016	cluster_23
+AN0020	AN0016	cluster_23
+AN0021	AN0016	cluster_23
+AN0022	AN0016	cluster_23
+AN0023	AN0016	cluster_23
+AN10005	AN0016	cluster_23
+AN0024	AN0016	cluster_23
+AN0025	AN0016	cluster_23
+AN0026	AN0016	cluster_23
+AN0027	AN0016	cluster_23
+AN0028	AN0016	cluster_23
+AN0029	AN0016	cluster_23
+AN0592	AN0607 (sidC)	cluster_24
+AN0593	AN0607 (sidC)	cluster_24
+AN0594	AN0607 (sidC)	cluster_24
+AN0595	AN0607 (sidC)	cluster_24
+AN0596	AN0607 (sidC)	cluster_24
+AN0597	AN0607 (sidC)	cluster_24
+AN0598	AN0607 (sidC)	cluster_24
+AN0599	AN0607 (sidC)	cluster_24
+AN0600	AN0607 (sidC)	cluster_24
+AN0601	AN0607 (sidC)	cluster_24
+AN0602	AN0607 (sidC)	cluster_24
+AN0604	AN0607 (sidC)	cluster_24
+AN0605	AN0607 (sidC)	cluster_24
+AN0606	AN0607 (sidC)	cluster_24
+AN0607	AN0607 (sidC)	cluster_24
+AN0608	AN0607 (sidC)	cluster_24
+AN0609	AN0607 (sidC)	cluster_24
+AN0610	AN0607 (sidC)	cluster_24
+AN0611	AN0607 (sidC)	cluster_24
+AN0612	AN0607 (sidC)	cluster_24
+AN0613	AN0607 (sidC)	cluster_24
+AN0614	AN0607 (sidC)	cluster_24
+AN0615	AN0607 (sidC)	cluster_24
+AN0616	AN0607 (sidC)	cluster_24
+AN0617	AN0607 (sidC)	cluster_24
+AN2339	AN10289	cluster_25
+AN10287	AN10289	cluster_25
+AN10293	AN10289	cluster_25
+AN10288	AN10289	cluster_25
+AN10294	AN10289	cluster_25
+AN2342	AN10289	cluster_25
+AN2343	AN10289	cluster_25
+AN2344	AN10289	cluster_25
+AN10289	AN10289	cluster_25
+AN10295	AN10289	cluster_25
+AN2346	AN10289	cluster_25
+AN12125	AN10289	cluster_25
+AN2347	AN10289	cluster_25
+AN2349	AN10289	cluster_25
+AN2392	AN10297	cluster_26
+AN2393	AN10297	cluster_26
+AN2394	AN10297	cluster_26
+AN2395	AN10297	cluster_26
+AN2396	AN10297	cluster_26
+AN2397	AN10297	cluster_26
+AN2398	AN10297	cluster_26
+AN2399	AN10297	cluster_26
+AN2400	AN10297	cluster_26
+AN12115	AN10297	cluster_26
+AN12116	AN10297	cluster_26
+AN2402	AN10297	cluster_26
+AN10300	AN10297	cluster_26
+AN10297	AN10297	cluster_26
+AN2404	AN10297	cluster_26
+AN2405	AN10297	cluster_26
+AN12119	AN10297	cluster_26
+AN2406	AN10297	cluster_26
+AN2407	AN10297	cluster_26
+AN11337	AN10297	cluster_26
+AN2408	AN10297	cluster_26
+AN10298	AN10297	cluster_26
+AN10301	AN10297	cluster_26
+AN3369	AN10396	cluster_27
+AN3370	AN10396	cluster_27
+AN3371	AN10396	cluster_27
+AN3372	AN10396	cluster_27
+AN3373	AN10396	cluster_27
+AN3374	AN10396	cluster_27
+AN3375	AN10396	cluster_27
+AN10396	AN10396	cluster_27
+AN10401	AN10396	cluster_27
+AN3377	AN10396	cluster_27
+AN11392	AN10396	cluster_27
+AN3378	AN10396	cluster_27
+AN3379	AN10396	cluster_27
+AN10429	AN10430	cluster_28
+AN10446	AN10430	cluster_28
+AN3605	AN10430	cluster_28
+AN3606	AN10430	cluster_28
+AN3607	AN10430	cluster_28
+AN3608	AN10430	cluster_28
+AN3609	AN10430	cluster_28
+AN10447	AN10430	cluster_28
+AN10430	AN10430	cluster_28
+AN3611	AN10430	cluster_28
+AN3612	AN10430	cluster_28
+AN3613	AN10430	cluster_28
+AN3614	AN10430	cluster_28
+AN3615	AN10430	cluster_28
+AN3616	AN10430	cluster_28
+AN10448	AN10430	cluster_28
+AN10485	AN10486	cluster_29
+AN10489	AN10486	cluster_29
+AN3909	AN10486	cluster_29
+AN3910	AN10486	cluster_29
+AN3911	AN10486	cluster_29
+AN10491	AN10486	cluster_29
+AN10486	AN10486	cluster_29
+AN3913	AN10486	cluster_29
+AN3914	AN10486	cluster_29
+AN3915	AN10486	cluster_29
+AN3916	AN10486	cluster_29
+AN3917	AN10486	cluster_29
+AN12204	AN11065	cluster_30
+AN8256	AN11065	cluster_30
+AN12205	AN11065	cluster_30
+AN8257	AN11065	cluster_30
+AN8258	AN11065	cluster_30
+AN8259	AN11065	cluster_30
+AN11065	AN11065	cluster_30
+AN11071	AN11065	cluster_30
+AN12206	AN11065	cluster_30
+AN11067	AN11065	cluster_30
+AN8261	AN11065	cluster_30
+AN8262	AN11065	cluster_30
+AN8263	AN11065	cluster_30
+AN8481	AN11080	cluster_31
+AN11082	AN11080	cluster_31
+AN11080	AN11080	cluster_31
+AN8483	AN11080	cluster_31
+AN11877	AN11080	cluster_31
+AN8484	AN11080	cluster_31
+AN9210	AN11191	cluster_32
+AN9211	AN11191	cluster_32
+AN9212	AN11191	cluster_32
+AN9213	AN11191	cluster_32
+AN9214	AN11191	cluster_32
+AN12145	AN11191	cluster_32
+AN9215	AN11191	cluster_32
+AN9216	AN11191	cluster_32
+AN11191	AN11191	cluster_32
+AN11199	AN11191	cluster_32
+AN11198	AN11191	cluster_32
+AN9218	AN11191	cluster_32
+AN9219	AN11191	cluster_32
+AN9220	AN11191	cluster_32
+AN9221	AN11191	cluster_32
+AN11192	AN11191	cluster_32
+AN11200	AN11191	cluster_32
+AN12146	AN11191	cluster_32
+AN9223	AN11191	cluster_32
+AN9224	AN11191	cluster_32
+AN9225	AN11191	cluster_32
+AN9226	AN11191	cluster_32
+AN9227	AN11191	cluster_32
+AN11193	AN11191	cluster_32
+AN11201	AN11191	cluster_32
+AN11194	AN11191	cluster_32
+AN11202	AN11191	cluster_32
+AN9230	AN11191	cluster_32
+AN9220	AN11194	cluster_33
+AN9221	AN11194	cluster_33
+AN11192	AN11194	cluster_33
+AN11200	AN11194	cluster_33
+AN12146	AN11194	cluster_33
+AN9223	AN11194	cluster_33
+AN9224	AN11194	cluster_33
+AN9225	AN11194	cluster_33
+AN9226	AN11194	cluster_33
+AN9227	AN11194	cluster_33
+AN11193	AN11194	cluster_33
+AN11201	AN11194	cluster_33
+AN11194	AN11194	cluster_33
+AN11202	AN11194	cluster_33
+AN9230	AN11194	cluster_33
+AN9231	AN11194	cluster_33
+AN9232	AN11194	cluster_33
+AN9233	AN11194	cluster_33
+AN9234	AN11194	cluster_33
+AN9235	AN11194	cluster_33
+AN9236	AN11194	cluster_33
+AN12146	AN11194	cluster_33
+AN7831	AN12331	cluster_34
+AN7832	AN12331	cluster_34
+AN7833	AN12331	cluster_34
+AN7834	AN12331	cluster_34
+AN11024	AN12331	cluster_34
+AN7836	AN12331	cluster_34
+AN12330	AN12331	cluster_34
+AN12331	AN12331	cluster_34
+AN7839	AN12331	cluster_34
+AN11574	AN12331	cluster_34
+AN11575	AN12331	cluster_34
+AN7840	AN12331	cluster_34
+AN7842	AN12331	cluster_34
+AN1236	AN1242	cluster_35
+AN1237	AN1242	cluster_35
+AN1238	AN1242	cluster_35
+AN1239	AN1242	cluster_35
+AN11934	AN1242	cluster_35
+AN1242	AN1242	cluster_35
+AN1243	AN1242	cluster_35
+AN1244	AN1242	cluster_35
+AN1245	AN1242	cluster_35
+AN1246	AN1242	cluster_35
+AN1247	AN1242	cluster_35
+AN1248	AN1242	cluster_35
+AN1249	AN1242	cluster_35
+AN1250	AN1242	cluster_35
+AN1592	AN1594 (PbcR)	cluster_36
+AN1593	AN1594 (PbcR)	cluster_36
+AN1594	AN1594 (PbcR)	cluster_36
+AN1595	AN1594 (PbcR)	cluster_36
+AN1596	AN1594 (PbcR)	cluster_36
+AN1597	AN1594 (PbcR)	cluster_36
+AN1598	AN1594 (PbcR)	cluster_36
+AN1599	AN1594 (PbcR)	cluster_36
+AN1674	AN1680	cluster_37
+AN1675	AN1680	cluster_37
+AN1676	AN1680	cluster_37
+AN1677	AN1680	cluster_37
+AN1678	AN1680	cluster_37
+AN1679	AN1680	cluster_37
+AN1680	AN1680	cluster_37
+AN1681	AN1680	cluster_37
+AN1682	AN1680	cluster_37
+AN1683	AN1680	cluster_37
+AN1684	AN1680	cluster_37
+AN11312	AN1680	cluster_37
+AN1685	AN1680	cluster_37
+AN1686	AN1680	cluster_37
+AN1687	AN1680	cluster_37
+AN1688	AN1680	cluster_37
+AN1689	AN1680	cluster_37
+AN1690	AN1680	cluster_37
+AN1691	AN1680	cluster_37
+AN1776	AN1784	cluster_38
+AN1777	AN1784	cluster_38
+AN1778	AN1784	cluster_38
+AN1779	AN1784	cluster_38
+AN1780	AN1784	cluster_38
+AN1781	AN1784	cluster_38
+AN1782	AN1784	cluster_38
+AN12306	AN1784	cluster_38
+AN12307	AN1784	cluster_38
+AN1784	AN1784	cluster_38
+AN1785	AN1784	cluster_38
+AN1786	AN1784	cluster_38
+AN1787	AN1784	cluster_38
+AN12308	AN1784	cluster_38
+AN1788	AN1784	cluster_38
+AN1789	AN1784	cluster_38
+AN1790	AN1784	cluster_38
+AN1790	AN1793	cluster_39
+AN12309	AN1793	cluster_39
+AN1791	AN1793	cluster_39
+AN1792	AN1793	cluster_39
+AN1793	AN1793	cluster_39
+AN1794	AN1793	cluster_39
+AN1795	AN1793	cluster_39
+AN1796	AN1793	cluster_39
+AN1797	AN1793	cluster_39
+AN1798	AN1793	cluster_39
+AN1799	AN1793	cluster_39
+AN1800	AN1793	cluster_39
+AN1801	AN1793	cluster_39
+AN1802	AN1793	cluster_39
+AN2057	AN2064	cluster_40
+AN2058	AN2064	cluster_40
+AN2059	AN2064	cluster_40
+AN2060	AN2064	cluster_40
+AN11861	AN2064	cluster_40
+AN11862	AN2064	cluster_40
+AN2062	AN2064	cluster_40
+AN2917	AN2924	cluster_41
+AN2918	AN2924	cluster_41
+AN2919	AN2924	cluster_41
+AN2920	AN2924	cluster_41
+AN2921	AN2924	cluster_41
+AN2922	AN2924	cluster_41
+AN2923	AN2924	cluster_41
+AN2924	AN2924	cluster_41
+AN2925	AN2924	cluster_41
+AN2926	AN2924	cluster_41
+AN2927	AN2924	cluster_41
+AN11691	AN2924	cluster_41
+AN2928	AN2924	cluster_41
+AN3257	AN3252	cluster_42
+AN3256	AN3252	cluster_42
+AN3255	AN3252	cluster_42
+AN3254	AN3252	cluster_42
+AN3253	AN3252	cluster_42
+AN3252	AN3252	cluster_42
+AN3267	AN3273	cluster_43
+AN10388	AN3273	cluster_43
+AN3269	AN3273	cluster_43
+AN3270	AN3273	cluster_43
+AN3271	AN3273	cluster_43
+AN3272	AN3273	cluster_43
+AN12188	AN3273	cluster_43
+AN3273	AN3273	cluster_43
+AN10389	AN3273	cluster_43
+AN10402	AN3273	cluster_43
+AN3275	AN3273	cluster_43
+AN3276	AN3273	cluster_43
+AN3277	AN3273	cluster_43
+AN3278	AN3273	cluster_43
+AN3279	AN3273	cluster_43
+AN3280	AN3273	cluster_43
+AN3281	AN3273	cluster_43
+AN3282	AN3273	cluster_43
+AN3283	AN3273	cluster_43
+AN3284	AN3273	cluster_43
+AN3285	AN3273	cluster_43
+AN3286	AN3273	cluster_43
+AN3287	AN3273	cluster_43
+AN10429	AN3612	cluster_44
+AN10446	AN3612	cluster_44
+AN3605	AN3612	cluster_44
+AN3606	AN3612	cluster_44
+AN3607	AN3612	cluster_44
+AN3608	AN3612	cluster_44
+AN3609	AN3612	cluster_44
+AN10447	AN3612	cluster_44
+AN10430	AN3612	cluster_44
+AN3611	AN3612	cluster_44
+AN3612	AN3612	cluster_44
+AN3613	AN3612	cluster_44
+AN3614	AN3612	cluster_44
+AN3615	AN3612	cluster_44
+AN3616	AN3612	cluster_44
+AN10448	AN3612	cluster_44
+AN11232	AN4827	cluster_45
+AN9446	AN4827	cluster_45
+AN9445	AN4827	cluster_45
+AN4823	AN4827	cluster_45
+AN4824	AN4827	cluster_45
+AN4825	AN4827	cluster_45
+AN4826	AN4827	cluster_45
+AN4827	AN4827	cluster_45
+AN10600	AN4827	cluster_45
+AN10599	AN4827	cluster_45
+AN4829	AN4827	cluster_45
+AN4830	AN4827	cluster_45
+AN4831	AN4827	cluster_45
+AN4832	AN4827	cluster_45
+AN4833	AN4827	cluster_45
+AN4834	AN4827	cluster_45
+AN4835	AN4827	cluster_45
+AN4836	AN4827	cluster_45
+AN4837	AN4827	cluster_45
+AN5312	AN5318	cluster_46
+AN5313	AN5318	cluster_46
+AN5314	AN5318	cluster_46
+AN5315	AN5318	cluster_46
+AN5316	AN5318	cluster_46
+AN5317	AN5318	cluster_46
+AN5318	AN5318	cluster_46
+AN5319	AN5318	cluster_46
+AN5320	AN5318	cluster_46
+AN5321	AN5318	cluster_46
+AN5322	AN5318	cluster_46
+AN5323	AN5318	cluster_46
+AN5324	AN5318	cluster_46
+AN5325	AN5318	cluster_46
+AN5326	AN5318	cluster_46
+AN5327	AN5318	cluster_46
+AN5328	AN5318	cluster_46
+AN5329	AN5318	cluster_46
+AN5475	AN5475	cluster_47
+AN5607	AN5610	cluster_48
+AN9473	AN5610	cluster_48
+AN9474	AN5610	cluster_48
+AN5608	AN5610	cluster_48
+AN5609	AN5610	cluster_48
+AN10720	AN5610	cluster_48
+AN5610	AN5610	cluster_48
+AN5611	AN5610	cluster_48
+AN5612	AN5610	cluster_48
+AN5613	AN5610	cluster_48
+AN5614	AN5610	cluster_48
+AN5615	AN5610	cluster_48
+AN5616	AN5610	cluster_48
+AN6230	AN6236	cluster_49
+AN6231	AN6236	cluster_49
+AN6232	AN6236	cluster_49
+AN12360	AN6236	cluster_49
+AN6233	AN6236	cluster_49
+AN6234	AN6236	cluster_49
+AN6235	AN6236	cluster_49
+AN6236	AN6236	cluster_49
+AN6237	AN6236	cluster_49
+AN6238	AN6236	cluster_49
+AN6239	AN6236	cluster_49
+AN6240	AN6236	cluster_49
+AN6241	AN6236	cluster_49
+AN6242	AN6236	cluster_49
+AN11851	AN6236	cluster_49
+AN10818	AN6431	cluster_50
+AN6426	AN6431	cluster_50
+AN6427	AN6431	cluster_50
+AN6428	AN6431	cluster_50
+AN6429	AN6431	cluster_50
+AN6430	AN6431	cluster_50
+AN6431	AN6431	cluster_50
+AN6432	AN6431	cluster_50
+AN10816	AN6431	cluster_50
+AN6433	AN6431	cluster_50
+AN6434	AN6431	cluster_50
+AN6435	AN6431	cluster_50
+AN6436	AN6431	cluster_50
+AN6437	AN6431	cluster_50
+AN11527	AN6791	cluster_51
+AN6786	AN6791	cluster_51
+AN6787	AN6791	cluster_51
+AN6788	AN6791	cluster_51
+AN6789	AN6791	cluster_51
+AN6790	AN6791	cluster_51
+AN11907	AN6791	cluster_51
+AN6791	AN6791	cluster_51
+AN6792	AN6791	cluster_51
+AN6793	AN6791	cluster_51
+AN6794	AN6791	cluster_51
+AN6795	AN6791	cluster_51
+AN6796	AN6791	cluster_51
+AN6797	AN6791	cluster_51
+AN6798	AN6791	cluster_51
+AN11908	AN6791	cluster_51
+AN10846	AN6791	cluster_51
+AN7077	AN7084	cluster_52
+AN7078	AN7084	cluster_52
+AN12481	AN7084	cluster_52
+AN7080	AN7084	cluster_52
+AN7081	AN7084	cluster_52
+AN10886	AN7084	cluster_52
+AN10887	AN7084	cluster_52
+AN7083	AN7084	cluster_52
+AN7084	AN7084	cluster_52
+AN12290	AN7084	cluster_52
+AN12291	AN7084	cluster_52
+AN7086	AN7084	cluster_52
+AN7087	AN7084	cluster_52
+AN7088	AN7084	cluster_52
+AN7089	AN7084	cluster_52
+AN11749	AN7489 (mirC)	cluster_53
+AN7483	AN7489 (mirC)	cluster_53
+AN7484	AN7489 (mirC)	cluster_53
+AN7485	AN7489 (mirC)	cluster_53
+AN7487	AN7489 (mirC)	cluster_53
+AN7488	AN7489 (mirC)	cluster_53
+AN7489	AN7489 (mirC)	cluster_53
+AN7490	AN7489 (mirC)	cluster_53
+AN7491	AN7489 (mirC)	cluster_53
+AN7492	AN7489 (mirC)	cluster_53
+AN7493	AN7489 (mirC)	cluster_53
+AN7831	AN7838 (AN12331)	cluster_54
+AN7832	AN7838 (AN12331)	cluster_54
+AN7833	AN7838 (AN12331)	cluster_54
+AN7834	AN7838 (AN12331)	cluster_54
+AN11024	AN7838 (AN12331)	cluster_54
+AN7836	AN7838 (AN12331)	cluster_54
+AN12330	AN7838 (AN12331)	cluster_54
+AN12331	AN7838 (AN12331)	cluster_54
+AN7839	AN7838 (AN12331)	cluster_54
+AN11574	AN7838 (AN12331)	cluster_54
+AN11575	AN7838 (AN12331)	cluster_54
+AN7840	AN7838 (AN12331)	cluster_54
+AN7872	AN7884	cluster_55
+AN11582	AN7884	cluster_55
+AN7873	AN7884	cluster_55
+AN7874	AN7884	cluster_55
+AN7875	AN7884	cluster_55
+AN7876	AN7884	cluster_55
+AN7877	AN7884	cluster_55
+AN7878	AN7884	cluster_55
+AN7879	AN7884	cluster_55
+AN7880	AN7884	cluster_55
+AN7881	AN7884	cluster_55
+AN11028	AN7884	cluster_55
+AN11031	AN7884	cluster_55
+AN7883	AN7884	cluster_55
+AN7884	AN7884	cluster_55
+AN7885	AN7884	cluster_55
+AN7886	AN7884	cluster_55
+AN7887	AN7884	cluster_55
+AN7888	AN7884	cluster_55
+AN12002	AN7884	cluster_55
+AN7889	AN7884	cluster_55
+AN7890	AN7884	cluster_55
+AN7891	AN7884	cluster_55
+AN7892	AN7884	cluster_55
+AN8098	AN8105	cluster_56
+AN8099	AN8105	cluster_56
+AN8100	AN8105	cluster_56
+AN8101	AN8105	cluster_56
+AN8102	AN8105	cluster_56
+AN8103	AN8105	cluster_56
+AN8104	AN8105	cluster_56
+AN8105	AN8105	cluster_56
+AN8106	AN8105	cluster_56
+AN11037	AN8105	cluster_56
+AN11049	AN8105	cluster_56
+AN8108	AN8105	cluster_56
+AN11941	AN8105	cluster_56
+AN11942	AN8105	cluster_56
+AN8110	AN8105	cluster_56
+AN8111	AN8105	cluster_56
+AN8112	AN8105	cluster_56
+AN8113	AN8105	cluster_56
+AN8114	AN8105	cluster_56
+AN8115	AN8105	cluster_56
+AN8133	AN8142	cluster_57
+AN8134	AN8142	cluster_57
+AN8135	AN8142	cluster_57
+AN8136	AN8142	cluster_57
+AN8137	AN8142	cluster_57
+AN8138	AN8142	cluster_57
+AN12440	AN8142	cluster_57
+AN8139	AN8142	cluster_57
+AN8140	AN8142	cluster_57
+AN8141	AN8142	cluster_57
+AN8142	AN8142	cluster_57
+AN8143	AN8142	cluster_57
+AN8144	AN8142	cluster_57
+AN8145	AN8142	cluster_57
+AN8146	AN8142	cluster_57
+AN8147	AN8142	cluster_57
+AN11597	AN8209 (wA)	cluster_58
+AN8200	AN8209 (wA)	cluster_58
+AN8201	AN8209 (wA)	cluster_58
+AN8202	AN8209 (wA)	cluster_58
+AN8203	AN8209 (wA)	cluster_58
+AN8204	AN8209 (wA)	cluster_58
+AN8205	AN8209 (wA)	cluster_58
+AN8206	AN8209 (wA)	cluster_58
+AN8207	AN8209 (wA)	cluster_58
+AN8208	AN8209 (wA)	cluster_58
+AN8209	AN8209 (wA)	cluster_58
+AN12403	AN8209 (wA)	cluster_58
+AN12404	AN8209 (wA)	cluster_58
+AN8211	AN8209 (wA)	cluster_58
+AN8212	AN8209 (wA)	cluster_58
+AN8213	AN8209 (wA)	cluster_58
+AN8214	AN8209 (wA)	cluster_58
+AN11063	AN8249	cluster_59
+AN8246	AN8249	cluster_59
+AN8247	AN8249	cluster_59
+AN12201	AN8249	cluster_59
+AN8248	AN8249	cluster_59
+AN8249	AN8249	cluster_59
+AN8250	AN8249	cluster_59
+AN8251	AN8249	cluster_59
+AN11064	AN8249	cluster_59
+AN11069	AN8249	cluster_59
+AN8495	AN8504	cluster_60
+AN8496	AN8504	cluster_60
+AN8497	AN8504	cluster_60
+AN8498	AN8504	cluster_60
+AN8499	AN8504	cluster_60
+AN8500	AN8504	cluster_60
+AN8501	AN8504	cluster_60
+AN8502	AN8504	cluster_60
+AN8503	AN8504	cluster_60
+AN8504	AN8504	cluster_60
+AN9476	AN8504	cluster_60
+AN11670	AN8504	cluster_60
+AN8505	AN8504	cluster_60
+AN8506	AN8504	cluster_60
+AN8507	AN8504	cluster_60
+AN8508	AN8504	cluster_60
+AN8901	AN8910	cluster_61
+AN8902	AN8910	cluster_61
+AN8903	AN8910	cluster_61
+AN11143	AN8910	cluster_61
+AN11149	AN8910	cluster_61
+AN8905	AN8910	cluster_61
+AN8906	AN8910	cluster_61
+AN8907	AN8910	cluster_61
+AN12240	AN8910	cluster_61
+AN8908	AN8910	cluster_61
+AN8909	AN8910	cluster_61
+AN8910	AN8910	cluster_61
+AN8911	AN8910	cluster_61
+AN8912	AN8910	cluster_61
+AN8913	AN8910	cluster_61
+AN8914	AN8910	cluster_61
+AN8915	AN8910	cluster_61
+AN9000	AN9005	cluster_62
+AN9001	AN9005	cluster_62
+AN9002	AN9005	cluster_62
+AN9003	AN9005	cluster_62
+AN9004	AN9005	cluster_62
+AN9005	AN9005	cluster_62
+AN9006	AN9005	cluster_62
+AN9007	AN9005	cluster_62
+AN9008	AN9005	cluster_62
+AN9009	AN9005	cluster_62
+AN9010	AN9005	cluster_62
+AN9011	AN9005	cluster_62
+AN9012	AN9005	cluster_62
+AN9013	AN9005	cluster_62
+AN9129	AN9129	cluster_63
+AN9130	AN9129	cluster_63
+AN9215	AN9226	cluster_64
+AN9216	AN9226	cluster_64
+AN11191	AN9226	cluster_64
+AN11199	AN9226	cluster_64
+AN11198	AN9226	cluster_64
+AN9218	AN9226	cluster_64
+AN9219	AN9226	cluster_64
+AN9220	AN9226	cluster_64
+AN9221	AN9226	cluster_64
+AN11192	AN9226	cluster_64
+AN11200	AN9226	cluster_64
+AN12146	AN9226	cluster_64
+AN9223	AN9226	cluster_64
+AN9224	AN9226	cluster_64
+AN9225	AN9226	cluster_64
+AN9226	AN9226	cluster_64
+AN9227	AN9226	cluster_64
+AN11193	AN9226	cluster_64
+AN11201	AN9226	cluster_64
+AN11194	AN9226	cluster_64
+AN11202	AN9226	cluster_64
+AN9230	AN9226	cluster_64
+AN9231	AN9226	cluster_64
+AN9232	AN9226	cluster_64
+AN9233	AN9226	cluster_64
+AN9234	AN9226	cluster_64
+AN9235	AN9226	cluster_64
+AN9236	AN9226	cluster_64
+AN9280	AN9291	cluster_65
+AN9281	AN9291	cluster_65
+AN9282	AN9291	cluster_65
+AN9283	AN9291	cluster_65
+AN9284	AN9291	cluster_65
+AN9285	AN9291	cluster_65
+AN9286	AN9291	cluster_65
+AN9287	AN9291	cluster_65
+AN9288	AN9291	cluster_65
+AN9289	AN9291	cluster_65
+AN9290	AN9291	cluster_65
+AN11820	AN9291	cluster_65
+AN11821	AN9291	cluster_65
+AN9292	AN9291	cluster_65
+AN9293	AN9291	cluster_65
+AN9294	AN9291	cluster_65
+AN9295	AN9291	cluster_65
+AN9296	AN9291	cluster_65
+AN9297	AN9291	cluster_65
+AN9298	AN9291	cluster_65
+AN9299	AN9291	cluster_65
+AN9300	AN9291	cluster_65
+AN11210	AN9291	cluster_65
+AN11215	AN9291	cluster_65
+AN9302	AN9291	cluster_65
+AN9303	AN9291	cluster_65
+AN9304	AN9291	cluster_65
+AN9305	AN9291	cluster_65
+AN9306	AN9291	cluster_65
+AN9307	AN9291	cluster_65
+AN9311	AN9314	cluster_66
+AN9313	AN9314	cluster_66
+AN9314	AN9314	cluster_66
+AN9179	No PKS/NRPS backbone 1	cluster_67
+AN9180	No PKS/NRPS backbone 1	cluster_67
+AN9181	No PKS/NRPS backbone 1	cluster_67
+AN11195	No PKS/NRPS backbone 1	cluster_67
+AN11190	No PKS/NRPS backbone 1	cluster_67
+AN9183	No PKS/NRPS backbone 1	cluster_67
+AN9184	No PKS/NRPS backbone 1	cluster_67
+AN9185	No PKS/NRPS backbone 1	cluster_67
+AN9186	No PKS/NRPS backbone 1	cluster_67
+AN9187	No PKS/NRPS backbone 1	cluster_67
+AN9188	No PKS/NRPS backbone 1	cluster_67
+AN9189	No PKS/NRPS backbone 1	cluster_67
+AN12140	No PKS/NRPS backbone 1	cluster_67
+AN9191	No PKS/NRPS backbone 1	cluster_67
+AN9192	No PKS/NRPS backbone 1	cluster_67
+AN9193	No PKS/NRPS backbone 1	cluster_67
+AN9194	No PKS/NRPS backbone 1	cluster_67
+AN10325	No PKS/NRPS backbone 2	cluster_68
+AN10319	No PKS/NRPS backbone 2	cluster_68
+AN10320	No PKS/NRPS backbone 2	cluster_68
+AN10326	No PKS/NRPS backbone 2	cluster_68
+AN2553	No PKS/NRPS backbone 2	cluster_68
+AN2554	No PKS/NRPS backbone 2	cluster_68
+AN2555	No PKS/NRPS backbone 2	cluster_68
+AN2556	No PKS/NRPS backbone 2	cluster_68
+AN2557	No PKS/NRPS backbone 2	cluster_68
+AN11348	No PKS/NRPS backbone 2	cluster_68
+AN0650	No PKS/NRPS backbone 3	cluster_69
+AN0651	No PKS/NRPS backbone 3	cluster_69
+AN0652	No PKS/NRPS backbone 3	cluster_69
+AN0653	No PKS/NRPS backbone 3	cluster_69
+AN0654	No PKS/NRPS backbone 3	cluster_69
+AN0655	No PKS/NRPS backbone 3	cluster_69
+AN0656	No PKS/NRPS backbone 3	cluster_69
+AN0657	No PKS/NRPS backbone 3	cluster_69
+AN0658	No PKS/NRPS backbone 3	cluster_69
+AN11278	No PKS/NRPS backbone 3	cluster_69
+AN0659	No PKS/NRPS backbone 3	cluster_69
+AN0660	No PKS/NRPS backbone 3	cluster_69
+AN0036	No PKS/NRPS backbone 4	cluster_70
+AN10008	No PKS/NRPS backbone 4	cluster_70
+AN10002	No PKS/NRPS backbone 4	cluster_70
+AN0038	No PKS/NRPS backbone 4	cluster_70
+AN0039	No PKS/NRPS backbone 4	cluster_70
+AN0040	No PKS/NRPS backbone 4	cluster_70
+AN0041	No PKS/NRPS backbone 4	cluster_70
+AN0042	No PKS/NRPS backbone 4	cluster_70
+AN0043	No PKS/NRPS backbone 4	cluster_70
+AN0044	No PKS/NRPS backbone 4	cluster_70
+AN0045	No PKS/NRPS backbone 4	cluster_70
+AN0046	No PKS/NRPS backbone 4	cluster_70
+AN10003	No PKS/NRPS backbone 4	cluster_70
+AN10006	No PKS/NRPS backbone 4	cluster_70
