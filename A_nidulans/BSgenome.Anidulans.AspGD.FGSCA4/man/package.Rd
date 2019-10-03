@@ -1,8 +1,8 @@
-\name{BSgenome.Anidulans.AspGD.FGSC_A4}
+\name{BSgenome.Anidulans.AspGD.FGSCA4}
 \docType{package}
 
-\alias{BSgenome.Anidulans.AspGD.FGSC_A4-package}
-\alias{BSgenome.Anidulans.AspGD.FGSC_A4}
+\alias{BSgenome.Anidulans.AspGD.FGSCA4-package}
+\alias{BSgenome.Anidulans.AspGD.FGSCA4}
 \alias{Anidulans}
 
 \title{Full genome sequences for A_nidulans_FGSC_A4_version_s10-m04-r03 from AspGD}
@@ -42,8 +42,8 @@ A_nidulans_FGSC_A4_version_s10-m04-r03_chromosomes.fasta from http://www.aspergi
 }
 
 \examples{
-BSgenome.Anidulans.AspGD.FGSC_A4
-genome <- BSgenome.Anidulans.AspGD.FGSC_A4
+BSgenome.Anidulans.AspGD.FGSCA4
+genome <- BSgenome.Anidulans.AspGD.FGSCA4
 head(seqlengths(genome))
 
 

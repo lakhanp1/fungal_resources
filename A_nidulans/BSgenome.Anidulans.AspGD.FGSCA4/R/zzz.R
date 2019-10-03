@@ -1,7 +1,7 @@
 ###
 ###
 
-.pkgname <- "BSgenome.Anidulans.AspGD.FGSC_A4"
+.pkgname <- "BSgenome.Anidulans.AspGD.FGSCA4"
 
 .seqnames <- NULL
 
