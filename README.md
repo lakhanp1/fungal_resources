@@ -17,9 +17,9 @@ This repository has various annotation resources for different fungal genomes I 
 - Gene to GO mapping file for ``topGO`` package: [topGO_mapping](A_fumigatus/topGO_mapping)
 
 ## *Aspergillus nidulans*
-- OrgDb package: [``org.Anidulans.eg.db``](A_nidulans/org.Anidulans.eg.db)
-- TxDb package: [``TxDb.Anidulans.AspGD.GFF``](A_nidulans/TxDb.Anidulans.AspGD.GFF)
-- BSgenome package: [``BSgenome.Anidulans.AspGD.FGSC_A4``](A_nidulans/BSgenome.Anidulans.AspGD.FGSC_A4)
+- OrgDb package: [``org.Anidulans.FGSCA4.eg.db``](A_nidulans/org.Anidulans.FGSCA4.eg.db)
+- TxDb package: [``TxDb.Anidulans.FGSCA4.AspGD.GFF``](A_nidulans/TxDb.Anidulans.FGSCA4.AspGD.GFF)
+- BSgenome package: [``BSgenome.Anidulans.FGSCA4.AspGD``](A_nidulans/BSgenome.Anidulans.FGSCA4.AspGD)
 - Gene to GO mapping file for ``topGO`` package: [topGO_mapping](A_nidulans/topGO_mapping)
 
 ## *Candida albicans*

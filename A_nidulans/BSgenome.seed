@@ -1,4 +1,4 @@
-Package: BSgenome.Anidulans.AspGD.FGSCA4
+Package: BSgenome.Anidulans.FGSCA4.AspGD
 Title: Full genome sequences for A_nidulans_FGSC_A4_version_s10-m04-r03 from AspGD
 Description: Full genome sequences for A_nidulans_FGSC_A4_version_s10-m04-r03 from AspGD and stored in Biostrings objects.
 Version: 03.05.06
