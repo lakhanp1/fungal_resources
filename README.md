@@ -11,9 +11,9 @@ This repository has various annotation resources for different fungal genomes I 
 **topGO mapping files:** OrgDb pacakge created for each organism in previous step was used to extract gene to GO assignment table. This table was saved in tabular file which is used by GO enrichment package [``topGO``](https://bioconductor.org/packages/release/bioc/html/topGO.html).
 
 ## *Aspergillus fumigatus*
-- OrgDb package: [``org.AFumigatus293.eg.db``](A_fumigatus/org.AFumigatus293.eg.db)
+- OrgDb package: [``org.AFumigatus.Af293.eg.db``](A_fumigatus/org.AFumigatus.Af293.eg.db)
 - TxDb package: [``TxDb.Afumigatus.Af293.AspGD.GFF``](A_fumigatus/TxDb.Afumigatus.Af293.AspGD.GFF)
-- BSgenome package: [``BSgenome.Afumigatus.AspGD.Af293``](A_fumigatus/BSgenome.Afumigatus.AspGD.Af293)
+- BSgenome package: [``BSgenome.Afumigatus.Af293.AspGD``](A_fumigatus/BSgenome.Afumigatus.Af293.AspGD)
 - Gene to GO mapping file for ``topGO`` package: [topGO_mapping](A_fumigatus/topGO_mapping)
 
 ## *Aspergillus nidulans*
