@@ -23,7 +23,7 @@ This repository has various annotation resources for different fungal genomes I 
 - Gene to GO mapping file for ``topGO`` package: [topGO_mapping](A_nidulans/topGO_mapping)
 
 ## *Candida albicans*
-- OrgDb package: [``org.Calbicans.eg.db``](C_albicans/org.Calbicans.eg.db)
+- OrgDb package: [``org.Calbicans.SC5314.eg.db``](C_albicans/org.Calbicans.SC5314.eg.db)
 - TxDb package: 
 - BSgenome package: 
 - Gene to GO mapping file for ``topGO`` package: [topGO_mapping](C_albicans/topGO_mapping)
