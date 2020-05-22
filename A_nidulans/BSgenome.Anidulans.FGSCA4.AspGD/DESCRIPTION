@@ -1,0 +1,18 @@
+Package: BSgenome.Anidulans.FGSCA4.AspGD
+Title: Full genome sequences for A_nidulans_FGSC_A4_version_s10-m04-r03 from AspGD
+Description: Full genome sequences for A_nidulans_FGSC_A4_version_s10-m04-r03 from AspGD and stored in Biostrings objects.
+Version: 03.05.06
+Author: The Bioconductor Dev Team
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: BSgenome (>= 1.54.0)
+Imports: BSgenome
+Suggests: 
+License: Artistic-2.0
+organism: Aspergillus nidulans
+common_name: Aspergillus nidulans
+provider: AspGD
+provider_version: s10-m04-r03
+release_date: 04-Oct-2015
+release_name: AspGD
+source_url: http://www.aspergillusgenome.org/download/sequence/A_nidulans_FGSC_A4/
+biocViews: AnnotationData, Genetics, BSgenome, aspergillus_nidulans

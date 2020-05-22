@@ -1,0 +1,16 @@
+Package: TxDb.Anidulans.FGSCA4.AspGD.GFF
+Title: Annotation package for TxDb object(s)
+Description: Exposes an annotation databases generated from A_nidulans AspGD GFF by exposing these as TxDb objects
+Version: 03.05.06
+Author: Lakhansing Pardeshi Chris Lab, Lakhansing Pardeshi <lakhanp@umac.mo> [cre]
+Maintainer: Lakhansing Pardeshi <lakhanp@umac.mo>
+Depends: GenomicFeatures (>= 1.38.2)
+Imports: AnnotationDbi
+License: Artistic-2.0
+organism: Aspergillus nidulans
+species: Aspergillus nidulans
+provider: A_nidulans AspGD GFF
+provider_version: A_nidulans AspGD GFF
+release_date: 2020-05-22 17:31:36 +0800 (Fri, 22 May 2020)
+resource_url: http://www.aspgd.org/
+biocViews: AnnotationData, Genetics, TxDb, Aspergillus_nidulans
