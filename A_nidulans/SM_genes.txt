@@ -95,35 +95,35 @@ AN8392	Austinol (aus)	cluster_05
 AN8393	Austinol (aus)	cluster_05
 AN8394	Austinol (aus)	cluster_05
 AN8395	Austinol (aus)	cluster_05
-AN7895	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 1	cluster_06
-AN7896	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 1	cluster_06
-AN7897	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 1	cluster_06
-AN11584	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 1	cluster_06
-AN7898	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 1	cluster_06
-AN7899	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 1	cluster_06
-AN7900	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 1	cluster_06
-AN7901	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 1	cluster_06
-AN7902	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 1	cluster_06
-AN7903	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 1	cluster_06
-AN7904	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7905	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7906	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7907	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7908	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7909	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7911	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7912	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7913	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7914	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7915	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7916	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7917	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7918	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7919	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7920	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7921	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7922	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
-AN7923	Derivative of BenzAldehyde1 (dba) and F9775 hybrid 2	cluster_07
+AN7895	DBA and F9775 hybrid 1	cluster_06
+AN7896	DBA and F9775 hybrid 1	cluster_06
+AN7897	DBA and F9775 hybrid 1	cluster_06
+AN11584	DBA and F9775 hybrid 1	cluster_06
+AN7898	DBA and F9775 hybrid 1	cluster_06
+AN7899	DBA and F9775 hybrid 1	cluster_06
+AN7900	DBA and F9775 hybrid 1	cluster_06
+AN7901	DBA and F9775 hybrid 1	cluster_06
+AN7902	DBA and F9775 hybrid 1	cluster_06
+AN7903	DBA and F9775 hybrid 1	cluster_06
+AN7904	DBA and F9775 hybrid 2	cluster_07
+AN7905	DBA and F9775 hybrid 2	cluster_07
+AN7906	DBA and F9775 hybrid 2	cluster_07
+AN7907	DBA and F9775 hybrid 2	cluster_07
+AN7908	DBA and F9775 hybrid 2	cluster_07
+AN7909	DBA and F9775 hybrid 2	cluster_07
+AN7911	DBA and F9775 hybrid 2	cluster_07
+AN7912	DBA and F9775 hybrid 2	cluster_07
+AN7913	DBA and F9775 hybrid 2	cluster_07
+AN7914	DBA and F9775 hybrid 2	cluster_07
+AN7915	DBA and F9775 hybrid 2	cluster_07
+AN7916	DBA and F9775 hybrid 2	cluster_07
+AN7917	DBA and F9775 hybrid 2	cluster_07
+AN7918	DBA and F9775 hybrid 2	cluster_07
+AN7919	DBA and F9775 hybrid 2	cluster_07
+AN7920	DBA and F9775 hybrid 2	cluster_07
+AN7921	DBA and F9775 hybrid 2	cluster_07
+AN7922	DBA and F9775 hybrid 2	cluster_07
+AN7923	DBA and F9775 hybrid 2	cluster_07
 AN2538	Emericellamide (eas)	cluster_08
 AN12472	Emericellamide (eas)	cluster_08
 AN2540	Emericellamide (eas)	cluster_08
