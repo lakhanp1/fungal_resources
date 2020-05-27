@@ -22,7 +22,7 @@
         organism="Aspergillus nidulans",
         common_name="Aspergillus nidulans",
         provider="AspGD",
-        provider_version="s10-m04-r03",
+        provider_version="Aspergillus_nidulans_s10-m04-r03",
         release_date="04-Oct-2015",
         release_name="AspGD",
         source_url="http://www.aspergillusgenome.org/download/sequence/A_nidulans_FGSC_A4/",

@@ -22,7 +22,7 @@
         organism="Aspergillus fumigatus",
         common_name="Aspergillus fumigatus",
         provider="AspGD",
-        provider_version="s03-m05-r06",
+        provider_version="Aspergillus_fumigatus_Af293_s03-m05-r06",
         release_date="17-Apr-2016",
         release_name="AspGD",
         source_url="http://www.aspergillusgenome.org/download/sequence/A_fumigatus_Af293/",
