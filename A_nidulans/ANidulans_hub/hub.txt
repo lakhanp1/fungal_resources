@@ -1,0 +1,6 @@
+hub ANidulans_hub
+shortLabel ANidulans_hub
+longLabel A. nidulans FungiDb Hub
+genomesFile genomes.txt
+email lakhanp@um.edu.mo
+descriptionUrl aboutHub.html

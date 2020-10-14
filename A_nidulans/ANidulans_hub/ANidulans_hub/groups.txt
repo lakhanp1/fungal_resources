@@ -1,0 +1,15 @@
+name genePreds
+label Gene Predictions
+priority 2
+defaultIsClosed 0
+
+name reps
+label Repeats
+priority 2
+defaultIsClosed 0
+
+name hints
+label Hints
+priority 2
+defaultIsClosed 0
+
