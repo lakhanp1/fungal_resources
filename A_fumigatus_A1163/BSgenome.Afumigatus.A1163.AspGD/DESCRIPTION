@@ -1,0 +1,18 @@
+Package: BSgenome.Afumigatus.A1163.AspGD
+Title: Full genome sequences for A. fumigatus A1163
+Description: Full genome sequences for A. fumigatus A1163 from AspGD and stored in Biostrings objects.
+Version: 2013.12.16
+Author: The Bioconductor Dev Team
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: BSgenome (>= 1.56.0)
+Imports: BSgenome
+Suggests: 
+License: Artistic-2.0
+organism: Aspergillus fumigatus
+common_name: Aspergillus fumigatus
+provider: AspGD
+provider_version: Aspergillus_fumigatus_A1163
+release_date: 2013-12-16
+release_name: AspGD
+source_url: http://www.aspergillusgenome.org/download/sequence/A_fumigatus_A1163/current/
+biocViews: AnnotationData, Genetics, BSgenome, aspergillus_fumigatus

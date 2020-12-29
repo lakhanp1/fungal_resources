@@ -1,0 +1,16 @@
+import(methods)
+import(AnnotationDbi)
+
+### Only put what is statically exported here. All the AnnObj instances
+### created at load time are dynamically exported (refer to R/zzz.R for
+### the details).
+export(
+    org.AFumigatus.A1163.eg,
+    org.AFumigatus.A1163.eg_dbconn,
+    org.AFumigatus.A1163.eg_dbfile,
+    org.AFumigatus.A1163.eg_dbschema,
+    org.AFumigatus.A1163.eg_dbInfo,
+
+    org.AFumigatus.A1163.egORGANISM
+)
+

@@ -1,0 +1,16 @@
+Package: TxDb.Afumigatus.A1163.AspGD.GFF
+Title: Annotation package for TxDb object(s)
+Description: Exposes an annotation databases generated from A1163 AspGD GFF by exposing these as TxDb objects
+Version: 0.0.50
+Author: Lakhansing Pardeshi Chris Lab, Lakhansing Pardeshi <lakhanp@um.edu.mo> [cre]
+Maintainer: Lakhansing Pardeshi <lakhanp@um.edu.mo>
+Depends: GenomicFeatures (>= 1.42.1)
+Imports: AnnotationDbi
+License: Artistic-2.0
+organism: Aspergillus fumigatus
+species: Aspergillus fumigatus
+provider: A1163 AspGD GFF
+provider_version: A1163 AspGD GFF
+release_date: 2020-12-29 12:03:28 +0800 (Tue, 29 Dec 2020)
+resource_url: http://www.aspgd.org/
+biocViews: AnnotationData, Genetics, TxDb, Aspergillus_fumigatus
