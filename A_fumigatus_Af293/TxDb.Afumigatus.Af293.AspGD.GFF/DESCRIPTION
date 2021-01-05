@@ -4,13 +4,13 @@ Description: Exposes an annotation databases generated from Af293 AspGD GFF by e
 Version: 03.05.06
 Author: Lakhansing Pardeshi Chris Lab, Lakhansing Pardeshi <lakhanp@umac.mo> [cre]
 Maintainer: Lakhansing Pardeshi <lakhanp@umac.mo>
-Depends: GenomicFeatures (>= 1.40.0)
+Depends: GenomicFeatures (>= 1.42.1)
 Imports: AnnotationDbi
 License: Artistic-2.0
 organism: Aspergillus fumigatus
 species: Aspergillus fumigatus
 provider: Af293 AspGD GFF
 provider_version: Af293 AspGD GFF
-release_date: 2020-05-27 23:49:18 +0800 (Wed, 27 May 2020)
+release_date: 2021-01-05 11:49:07 +0800 (Tue, 05 Jan 2021)
 resource_url: http://www.aspgd.org/
 biocViews: AnnotationData, Genetics, TxDb, Aspergillus_fumigatus

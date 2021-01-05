@@ -4,13 +4,13 @@ Description: Exposes an annotation databases generated from SC5314 A21 GFF by ex
 Version: 0.0.50
 Author: Lakhansing Pardeshi Chris Lab, Lakhansing Pardeshi <lakhanp@um.edu.mo> [cre]
 Maintainer: Lakhansing Pardeshi <lakhanp@um.edu.mo>
-Depends: GenomicFeatures (>= 1.40.1)
+Depends: GenomicFeatures (>= 1.42.1)
 Imports: AnnotationDbi
 License: Artistic-2.0
 organism: Candida albicans
 species: Candida albicans
 provider: SC5314 A21 GFF
 provider_version: SC5314 A21 GFF
-release_date: 2020-12-30 01:32:27 +0800 (Wed, 30 Dec 2020)
+release_date: 2021-01-05 11:46:58 +0800 (Tue, 05 Jan 2021)
 resource_url: http://www.candidagenome.org
 biocViews: AnnotationData, Genetics, TxDb, Candida_albicans

@@ -21,7 +21,7 @@
 
 \note{
   This data package was made from resources at SC5314 A21 GFF on
-  2020-12-30 01:32:27 +0800 (Wed, 30 Dec 2020) and based on the SC5314 A21 GFF
+  2021-01-05 11:46:58 +0800 (Tue, 05 Jan 2021) and based on the SC5314 A21 GFF
 }
 
 \author{Lakhansing Pardeshi Chris Lab, Lakhansing Pardeshi <lakhanp@um.edu.mo> [cre]}

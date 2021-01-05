@@ -21,7 +21,7 @@
 
 \note{
   This data package was made from resources at Af293 AspGD GFF on
-  2020-05-27 23:49:18 +0800 (Wed, 27 May 2020) and based on the Af293 AspGD GFF
+  2021-01-05 11:49:07 +0800 (Tue, 05 Jan 2021) and based on the Af293 AspGD GFF
 }
 
 \author{Lakhansing Pardeshi Chris Lab, Lakhansing Pardeshi <lakhanp@umac.mo> [cre]}
