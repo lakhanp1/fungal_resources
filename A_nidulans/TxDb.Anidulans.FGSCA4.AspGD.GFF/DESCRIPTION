@@ -4,13 +4,13 @@ Description: Exposes an annotation databases generated from A_nidulans AspGD GFF
 Version: 03.05.06
 Author: Lakhansing Pardeshi Chris Lab, Lakhansing Pardeshi <lakhanp@umac.mo> [cre]
 Maintainer: Lakhansing Pardeshi <lakhanp@umac.mo>
-Depends: GenomicFeatures (>= 1.40.0)
+Depends: GenomicFeatures (>= 1.42.1)
 Imports: AnnotationDbi
 License: Artistic-2.0
 organism: Aspergillus nidulans
 species: Aspergillus nidulans
 provider: A_nidulans AspGD GFF
 provider_version: A_nidulans AspGD GFF
-release_date: 2020-05-27 23:38:48 +0800 (Wed, 27 May 2020)
+release_date: 2021-06-07 17:26:24 +0800 (Mon, 07 Jun 2021)
 resource_url: http://www.aspgd.org/
 biocViews: AnnotationData, Genetics, TxDb, Aspergillus_nidulans
