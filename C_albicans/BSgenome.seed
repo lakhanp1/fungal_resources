@@ -1,15 +1,16 @@
-Package: BSgenome.CAlbicans.SC5314_A21.CGD
+Package: BSgenome.CAlbicans.SC5314.A21.CGD
 Title: Full genome sequences for C. albicans SC5314_A21
 Description: Full genome sequences for C. albicans SC5314_A21 from CGD and stored in Biostrings objects.
 Version: 02.09.08
 organism: Candida albicans
 common_name: Candida albicans
 provider: CGD
-provider_version: Candida_albicans_SC5314_A21-s02-m09-r08
+genome: Candida_albicans_SC5314_A21-s02-m09-r08
 source_url: http://www.candidagenome.org/download/sequence/C_albicans_SC5314/Assembly21/
-BSgenomeObjname: Afumigatus
+BSgenomeObjname: CAlbicans
 SrcDataFiles: C_albicans_SC5314_A21_current_chromosomes.fasta http://www.candidagenome.org/download/sequence/C_albicans_SC5314/Assembly21/
-seqfile_name: ../C_albicans_SC5314_A21_current_chromosomes.2bit
+circ_seqs: character(0)
+seqs_srcdir: ../
+seqfile_name: C_albicans_SC5314_A21_current_chromosomes.2bit
 release_date: 2014-06-15
-release_name: CGD
 organism_biocview: Candida_albicans_SC5314_A21
