@@ -5,11 +5,12 @@ Version: 03.05.06
 organism: Aspergillus nidulans
 common_name: Aspergillus nidulans
 provider: AspGD
-provider_version: s10-m04-r03
+genome: Aspergillus_nidulans_s10-m04-r03
 source_url: http://www.aspergillusgenome.org/download/sequence/A_nidulans_FGSC_A4/
 BSgenomeObjname: Anidulans
 SrcDataFiles: A_nidulans_FGSC_A4_version_s10-m04-r03_chromosomes.fasta from http://www.aspergillusgenome.org/download/sequence/A_nidulans_FGSC_A4/
 seqfile_name: A_nidulans_FGSC_A4_version_s10-m04-r03_chromosomes.2bit
+circ_seqs: character(0)
+seqs_srcdir: ../
 release_date: 04-Oct-2015
-release_name: AspGD
 organism_biocview: aspergillus_nidulans

@@ -31,7 +31,7 @@ This repository has various annotation resources for different fungal genomes I 
 ## *Candida albicans SC5314 A21*
 - OrgDb package: [``org.Calbicans.SC5314.eg.db``](C_albicans/org.Calbicans.SC5314.eg.db)
 - TxDb package: [``TxDb.Calbicans.SC5314.CGD.GFF``](C_albicans/TxDb.Calbicans.SC5314.CGD.GFF)
-- BSgenome package: [``BSgenome.CAlbicans.SC5314_A21.CGD``](C_albicans/BSgenome.CAlbicans.SC5314_A21.CGD)
+- BSgenome package: [``BSgenome.CAlbicans.SC5314.A21.CGD``](C_albicans/BSgenome.CAlbicans.SC5314.A21.CGD)
 - Gene to GO mapping file for ``topGO`` package: [topGO_mapping](C_albicans/topGO_mapping)
 
 ## *Candida auris*
