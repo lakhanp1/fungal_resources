@@ -35,9 +35,9 @@ This repository has various annotation resources for different fungal genomes I 
 - Gene to GO mapping file for ``topGO`` package: [topGO_mapping](C_albicans/topGO_mapping)
 
 ## *Candida auris*
-- OrgDb package: [``org.Cauris.eg.db``](C_auris/org.Cauris.eg.db)
-- TxDb package: [](C_auris/)
-- BSgenome package: [](C_auris/)
+- OrgDb package: [``org.Cauris.B8441.eg.db``](C_auris/org.Cauris.B8441.eg.db)
+- TxDb package: [``TxDb.Cauris.B8441.GFF``](C_auris/TxDb.Cauris.B8441.GFF)
+- BSgenome package: [``BSgenome.Cauris.B8441``](C_auris/BSgenome.Cauris.B8441)
 - Gene to GO mapping file for ``topGO`` package: [topGO_mapping](C_auris/topGO_mapping)
 
 

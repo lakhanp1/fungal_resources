@@ -1,0 +1,17 @@
+Package: BSgenome.Cauris.B8441
+Title: Full genome sequences for C. auris
+Description: Full genome sequences for C. auris and stored in Biostrings objects.
+Version: 03.05.06
+Author: The Bioconductor Dev Team
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Depends: R (>= 3.5.0), BSgenome (>= 1.60.0)
+Imports: BSgenome
+Suggests: 
+License: Artistic-2.0
+organism: Candida auris
+common_name: Candida auris
+genome: Candida_auris_B8441
+provider: AspGD
+release_date: 2021-09-02
+source_url: https://fungidb.org/fungidb/app/downloads/release-54/CaurisB8441
+biocViews: AnnotationData, Genetics, BSgenome, c_auris

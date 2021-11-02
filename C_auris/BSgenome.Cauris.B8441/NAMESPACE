@@ -1,0 +1,9 @@
+import(BSgenome)
+
+### Don't export BSgenome.Cauris.B8441 or Cauris (the new and
+### old names of the BSgenome object defined in this package): the object
+### is created and its 2 names are dynamically exported at load time (refer
+### to R/zzz.R for the details).
+#export(BSgenome.Cauris.B8441)
+#export(Cauris)
+
