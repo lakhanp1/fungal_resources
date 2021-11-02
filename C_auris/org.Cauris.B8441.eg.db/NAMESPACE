@@ -1,0 +1,16 @@
+import(methods)
+import(AnnotationDbi)
+
+### Only put what is statically exported here. All the AnnObj instances
+### created at load time are dynamically exported (refer to R/zzz.R for
+### the details).
+export(
+    org.Cauris.B8441.eg,
+    org.Cauris.B8441.eg_dbconn,
+    org.Cauris.B8441.eg_dbfile,
+    org.Cauris.B8441.eg_dbschema,
+    org.Cauris.B8441.eg_dbInfo,
+
+    org.Cauris.B8441.egORGANISM
+)
+
