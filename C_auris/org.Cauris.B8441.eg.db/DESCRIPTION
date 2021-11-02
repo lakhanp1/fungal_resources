@@ -3,7 +3,7 @@ Title: Genome wide annotation for Candida auris.B8441
 Description: Genome wide annotation for Candida auris.B8441, primarily based on mapping using Entrez Gene identifiers.
 Version: 00.00.2
 Author: Lakhansing Pardeshi Chris Lab
-Maintainer: Lakhansing Pardeshi
+Maintainer: Lakhansing Pardeshi <lakhanp@umac.mo>
 Depends: R (>= 2.7.0), methods, AnnotationDbi (>= 1.54.0)
 Suggests: DBI, annotate, RUnit
 License: Artistic-2.0
