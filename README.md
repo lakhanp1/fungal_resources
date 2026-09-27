@@ -1,4 +1,19 @@
-# Fungal annotation resources to work with fungal genomics data in R
+<div align="center">
+    <p>
+        <img alt="GitHub Release" src="https://img.shields.io/github/v/release/lakhanp1/fungal_resources">
+        <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/lakhanp1/fungal_resources">
+        <img alt="GitHub commits since latest release" src="https://img.shields.io/github/commits-since/lakhanp1/fungal_resources/latest">
+        <img alt="GitHub License" src="https://img.shields.io/github/license/lakhanp1/fungal_resources">
+    </p>
+    <p>
+        <!-- <a href='https://doi.org/10.5281/zenodo.22978873'><img alt="Zenodo" src='https://img.shields.io/badge/Zenodo-10.5281%2Fzenodo.12772014-blue'></a> -->
+        <a href="https://doi.org/10.5281/zenodo.22978873"><img src="https://zenodo.org/badge/152007441.svg" alt="DOI"></a>
+    </p>
+</div>
+
+---
+
+# Fungal genome annotation resources for data analysis in R
 This repository has various annotation resources for different fungal genomes I have worked on. One can easily create these resources on their own using R packages like ``AnnotationForge``, ``GenomicFeatures`` etc.
 
 **OrgDb packages:** To prepare OrgDb package for an organism, gene information, GO assignment, KEGG pathway data was extracted from various public domain databases like AspGD, CGD, FunigDB, NCBI etc. This curated data was used with R function ``AnnotationForge::makeOrgPackage()`` to create OrgDb package. One can store different form of information for each gene in OrgDb package and once created, can easily extract the information using ``AnnotationDbi::select()`` function. This orgDb package can be used in GO enrichment analysis using [``clusterProfiler``](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html) package. 
